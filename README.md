@@ -1,0 +1,1 @@
+# SQL-Project-Provide-Insights-to-Management-in-Consumer-Goods-Domain-
