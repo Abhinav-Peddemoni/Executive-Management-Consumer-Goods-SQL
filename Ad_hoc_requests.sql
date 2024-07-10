@@ -1,14 +1,3 @@
-USE gdb023;
-
-SHOW TABLES;
-
-SELECT * FROM dim_customer;
-SELECT * FROM dim_product;
-SELECT * FROM fact_gross_price;
-SELECT * FROM fact_manufacturing_cost;
-SELECT * FROM fact_pre_invoice_deductions;
-SELECT * FROM fact_sales_monthly;
-
 -- 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
 SELECT DISTINCT market FROM dim_customer
 WHERE customer LIKE "Atliq Exclusive" AND region LIKE "APAC";
