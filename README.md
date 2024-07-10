@@ -7,4 +7,4 @@ Task:
 
 1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
 2.    You need to run a SQL query to answer these requests. 
-3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
+3.    The target audience is top-level management.
