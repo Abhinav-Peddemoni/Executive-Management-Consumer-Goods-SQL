@@ -6,5 +6,5 @@ However, the management noticed that they do not get enough insights to make qui
 Task:  
 
 1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
-2.    You need to run a SQL query to answer these requests. 
+2.    Wrote SQL queries to answer these requests. 
 3.    The target audience is top-level management.
